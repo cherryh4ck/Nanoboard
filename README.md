@@ -1,6 +1,6 @@
-<div style="margin-left: auto; margin-right: auto;">
-  <img src="nano.png" style="display: block; margin: 0 auto;">
-</div>
+<p align="center">
+  <img src="http://some_place.com/image.png" />
+</p>
 
 # 🪶 Nanoboard
 Nanoboard es un imageboard fuertemente inspirado en 4chan.
