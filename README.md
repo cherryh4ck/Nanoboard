@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="nano.png" />
+  <img src="nano.png" style="width: 256px;"/>
 </p>
 
 # 🪶 Nanoboard
