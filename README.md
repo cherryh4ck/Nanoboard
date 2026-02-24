@@ -1,4 +1,4 @@
-<div style="text-align: center;">
+<div style="margin-left: auto; margin-right: auto;">
   <img src="nano.png" style="display: block; margin: 0 auto;">
 </div>
 
